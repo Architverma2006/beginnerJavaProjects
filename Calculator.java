@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args){
+
+        // Calculator Programme using switches
+        
         Scanner scanner = new Scanner(System.in);
 
         double num1;
