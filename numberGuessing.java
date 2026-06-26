@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
+//Number Guessing Game
+
 public class numberGuessing {
     public static void main(String[] args){
         Random random = new Random();
@@ -13,7 +15,7 @@ public class numberGuessing {
         int randomNumber = random.nextInt(min,max + 1);
 
         System.out.println("Number guessing game");
-        System.out.println("Enter a number(1-100) ");
+        System.out.printf("Enter a number(%d-%d)\n ", min,max);
 
 
         do{
