@@ -1,44 +1,52 @@
 # ☕ Beginner Java Projects
 
-A collection of beginner Java projects created while learning Java programming. This repository documents my progress through Java fundamentals by building small console based applications and practicing core programming concepts.
+A collection of beginner Java projects created while learning Java programming. This repository documents my progress through Java fundamentals by building small console-based applications and practicing core programming concepts.
 
 ## 📂 Projects
 
-* Compound Interest Calculator
-* Basic Calculator
-* Temperature Converter
-* Unit Converter
-* Shopping Program
-* Number Guessing Game
-* Countdown Timer
-* Banking Program
+- Compound Interest Calculator
+- Basic Calculator
+- Temperature Converter
+- Unit Converter
+- Shopping Program
+- Number Guessing Game
+- Countdown Timer
+- Banking Program
+- Dice Roller
+- Rock Paper Scissors
 
 ## 🛠️ Concepts Practiced
 
-* Variables & Data Types
-* User Input (`Scanner`)
-* Conditional Statements (`if`, `else if`, `else`)
-* Switch Statements
-* String Methods
-* While Loops
-* For Loops
-* Methods
-* Parameters
-* Return Values
-* Random Number Generation
-* Formatted Output (`printf`)
-* Thread Delays (`Thread.sleep()`)
+- Variables & Data Types
+- User Input (`Scanner`)
+- Conditional Statements (`if`, `else if`, `else`)
+- Switch Statements
+- String Methods
+- Arrays
+- 2D Arrays
+- While Loops
+- Do-While Loops
+- For Loops
+- Methods
+- Parameters
+- Return Values
+- Random Number Generation
+- Formatted Output (`printf`)
+- Thread Delays (`Thread.sleep()`)
 
 ## 📚 Upcoming Topics
 
-* Arrays
-* ArrayLists
-* Object Oriented Programming (OOP)
-* Exception Handling
-* File Handling
-* Collections Framework
-* GUI Development
-* Multithreading
+- Object-Oriented Programming (OOP)
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Interfaces
+- Exception Handling
+- File Handling
+- Collections Framework
+- GUI Development
+- Multithreading
 
 ## 🎯 Goal
 
