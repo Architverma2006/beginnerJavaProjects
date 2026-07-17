@@ -10,7 +10,6 @@ A collection of beginner Java projects created while learning Java programming. 
 - Unit Converter
 - Shopping Program
 - Number Guessing Game
-- Countdown Timer
 - Banking Program
 - Dice Roller
 - Rock Paper Scissors
