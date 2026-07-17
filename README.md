@@ -33,9 +33,6 @@ A collection of beginner Java projects created while learning Java programming. 
 - Random Number Generation
 - Formatted Output (`printf`)
 - Thread Delays (`Thread.sleep()`)
-
-## 📚 Upcoming Topics
-
 - Object-Oriented Programming (OOP)
 - Constructors
 - Inheritance
